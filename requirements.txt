@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+openpyxl
+xlrd
+sqlite-utils
+pandas
+matplotlib
+seaborn
+xlrd
+openpyxl
